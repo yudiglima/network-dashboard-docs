@@ -24,10 +24,10 @@
 ## Screenshots
 
 ### System metrics — CPU, memory, I/O pressure
-![Node Exporter Full Dashboard](assets/dashboard-system.png)
+![Node Exporter Full Dashboard](assets/dashboard-system.jpeg)
 
 ### Network traffic — bytes received and transmitted
-![Network Traffic Dashboard](assets/dashboard-network.png)
+![Network Traffic Dashboard](assets/dashboard-network.jpeg)
 
 ---
 
